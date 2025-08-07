@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ai-Resume-Analyzer
 =======
 # Welcome to React Router!
@@ -88,4 +87,4 @@ This template comes with [Tailwind CSS](https://tailwindcss.com/) already config
 ---
 
 Built with ❤️ using React Router.
->>>>>>> dcfcc76 (Initial commit from create-react-router)
+dcfcc76 (Initial commit from create-react-router)
